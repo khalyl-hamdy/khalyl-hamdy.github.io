@@ -6,4 +6,4 @@ Talan Academy Project
 ## BetterMotherFuckingWebsite 
 Direct [link](https://khalyl-hamdy.github.io/BetterMotherFuckingWebsite/bmfw.html) to the BetterMotherFuckingWebsite.
 ## Pyramid
-Direct [link](https://khalyl-hamdy.github.io/Pyramid/index.html)to the Pyramid project.
+Direct [link](https://khalyl-hamdy.github.io/Pyramid/index.html) to the Pyramid project.
